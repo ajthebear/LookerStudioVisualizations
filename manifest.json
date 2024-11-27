@@ -2,6 +2,6 @@
   "dataStudio": {
     "name": "Custom Funnel Chart with Circles",
     "description": "A customizable funnel chart with circles as visual labels.",
-    "createVizScript": "https://your-hosted-url.com/your-funnel-chart.js"
+    "createVizScript": "https://raw.githubusercontent.com/ajthebear/LookerStudioVisualizations/55f293651f1c101590933f37030b6b7a3bfeae1a/funnel-chart.js"
   }
 }
